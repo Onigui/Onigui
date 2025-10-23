@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://onigui.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Interactive%20Terminal-43B3F0?logo=windowsterminal&logoColor=white"></a>
-  <a href="mailto:seu-email@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-4BD2A2?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/seulink"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:guiotiago@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-4BD2A2?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guilherme-tiago"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/onigui?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Projects-181717?logo=github"></a>
 </p>
 
@@ -98,8 +98,8 @@ I’m **Guilherme Tiago**, a **Software Engineer** and **Full Stack Developer** 
 ## 🌐 Connect
 <div align="center">
   <a href="https://onigui.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-43B3F0?style=for-the-badge&logo=windowsterminal&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/seulink"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:seu-email@proton.me"><img src="https://img.shields.io/badge/Email-Send-4BD2A2?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guilherme-tiago"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:guiotiago@gmail.com"><img src="https://img.shields.io/badge/Email-Send-4BD2A2?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ---
@@ -109,13 +109,6 @@ Sou Engenheiro de Software Full Stack com experiência em **todas as camadas do 
 Meu portfólio é um **terminal interativo** hospedado no GitHub Pages: [onigui.github.io](https://onigui.github.io).
 
 > _“Código é arte quando resolve problemas invisíveis.”_
-
----
-
-## 🧭 Setup
-1. Crie o repositório **`onigui`** (público).  
-2. Crie o arquivo **`README.md`** e cole este conteúdo.  
-3. Commit — o GitHub exibe automaticamente este layout no seu perfil.
 
 ---
 
