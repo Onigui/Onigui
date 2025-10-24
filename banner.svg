@@ -1,29 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
-  <!-- defs precisam vir ANTES do uso -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b0f14"/>
-      <stop offset="100%" stop-color="#0a1220"/>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f14" />
+      <stop offset="100%" stop-color="#0a1220" />
     </linearGradient>
   </defs>
 
-  <!-- fundo -->
-  <rect width="1600" height="420" fill="#0b0f14"/>
-  <rect width="1600" height="420" fill="url(#g)"/>
+  <!-- Background -->
+  <rect width="1600" height="420" fill="url(#bgGradient)" />
 
-  <!-- textos -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
-    <text x="80" y="170" font-size="44" font-weight="700" fill="#d6e2ee">GUILHERME TIAGO</text>
-    <text x="80" y="215" font-size="22" fill="#b7c7d8">SOFTWARE ENGINEER • FULL STACK DEVELOPER</text>
-    <text x="80" y="260" font-size="18" fill="#a7bacf">AUTOMATION • AI • ARCHITECTURE • PERFORMANCE</text>
+  <!-- Left Side Text -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="80" y="150" font-size="44" font-weight="700" fill="#d6e2ee">GUILHERME TIAGO</text>
+    <text x="80" y="200" font-size="22" fill="#43B3F0">SOFTWARE ENGINEER • FULL STACK DEVELOPER</text>
+    <text x="80" y="240" font-size="18" fill="#4bd2a2">AUTOMATION • AI • ARCHITECTURE • PERFORMANCE</text>
   </g>
 
-  <!-- “terminal card” à direita -->
-  <g transform="translate(1030,120)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
-    <rect rx="12" ry="12" width="470" height="190" fill="#0f141b" stroke="#1d2a3a" opacity=".95"/>
-    <text x="20" y="46" font-size="16" fill="#8aa0b6">onigui@dev:~$ <tspan fill="#43B3F0">whoami</tspan></text>
-    <text x="20" y="78" font-size="16" fill="#cfe7ff">Guilherme Tiago — Software Engineer</text>
-    <text x="20" y="106" font-size="16" fill="#4bd2a2">skills</text>
-    <text x="20" y="132" font-size="14" fill="#d6e2ee">Python • Node.js • React • FastAPI • Docker • AI</text>
+  <!-- Right Terminal Card -->
+  <g transform="translate(1030,110)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect rx="12" ry="12" width="470" height="200" fill="#0f141b" stroke="#1d2a3a" />
+    <text x="20" y="50" font-size="16" fill="#8aa0b6">
+      onigui@dev:~$ <tspan fill="#43B3F0">whoami</tspan>
+    </text>
+    <text x="20" y="80" font-size="16" fill="#cfe7ff">Guilherme Tiago — Software Engineer</text>
+    <text x="20" y="110" font-size="16" fill="#4bd2a2">skills</text>
+    <text x="20" y="140" font-size="14" fill="#d6e2ee">
+      Python • Node.js • React • FastAPI • Docker • AI
+    </text>
   </g>
 </svg>
